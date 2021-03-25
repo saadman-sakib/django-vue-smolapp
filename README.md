@@ -2,13 +2,14 @@
 
 ## Project setup
 
-###backend setup
+### backend setup
 ```
+pip install requirements.txt
 cd vue_project
 python manage.py runserver 0.0.0.0:5000
 ```
 
-###frontend setup
+### frontend setup
 ```
 npm install
 ```
