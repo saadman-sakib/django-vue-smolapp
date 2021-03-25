@@ -1,4 +1,4 @@
-# ninja-jobs
+# Django-vue-smolapp
 
 ## Project setup
 ```
