@@ -1,6 +1,14 @@
 # Django-vue-smolapp
 
 ## Project setup
+
+###backend setup
+```
+cd vue_project
+python manage.py runserver 0.0.0.0:5000
+```
+
+###frontend setup
 ```
 npm install
 ```
